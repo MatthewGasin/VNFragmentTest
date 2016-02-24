@@ -133,17 +133,17 @@ public class MainActivity extends AppCompatActivity {
         if(onFirstName){
             //tara
             name.setText(b);
-            avatar.setScaleX((float) 1.2);
-            avatar.setScaleY((float) 1.2);
-            holden.setScaleX((float) 1);
-            holden.setScaleY((float) 1);
+            avatar.setScaleX(1.2f);
+            avatar.setScaleY( 1.2f);
+            holden.setScaleX(1f);
+            holden.setScaleY(1f);
         } else {
             //holden
             name.setText(a);
-            avatar.setScaleX((float) 1);
-            avatar.setScaleY((float) 1);
-            holden.setScaleX((float) 1.2);
-            holden.setScaleY((float) 1.2);
+            avatar.setScaleX(1f);
+            avatar.setScaleY(1f);
+            holden.setScaleX(1.2f);
+            holden.setScaleY(1.2f);
         }
         onFirstName = !onFirstName;
 
