@@ -7,7 +7,8 @@
         android:layout_width="fill_parent"
         android:layout_height="100dp"
         android:textAppearance="@style/Base.TextAppearance.AppCompat.Body1"
-        android:text="     Is this the real life?"
+        android:text=" You can tell the world you never was my girl
+"
         android:id="@+id/dialogueText"
         android:background="@drawable/dialogue"
         android:layout_alignParentBottom="true"
