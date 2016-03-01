@@ -78,7 +78,6 @@ public class MainActivity extends AppCompatActivity {
         lines.add("And if you tell my heart");
         lines.add("My achy breaky heart");
         lines.add("He might blow up and kill this man");
-        lines.add("will not let you go let me go");
         lines.add("end");
 
     }
